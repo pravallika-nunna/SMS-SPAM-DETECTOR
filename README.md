@@ -76,7 +76,9 @@ The dataset used for training consists of labeled SMS messages:
   - Confusion Matrix  
 
 ## Deployment with Streamlit  
-- The saved model is used in a **Streamlit web app** for real-time spam detection.  
+- The saved model is used in a **Streamlit web app** for real-time spam detection.
+- Checkout the StreamLit app here - 
+https://sms-spam-detector-3ff65vbhaoqvxqc9fejdfu.streamlit.app/
 
 ## Requirements  
 - Python 3.x  
