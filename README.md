@@ -12,8 +12,7 @@ This project is a **Machine Learning-based SMS Spam Detector** that classifies t
 6. [Model Training & Evaluation](#model-training--evaluation)  
 7. [Deployment with Streamlit](#deployment-with-streamlit)  
 8. [Requirements](#requirements)  
-9. [Future Enhancements](#future-enhancements)  
-10. [Contributors](#contributors)  
+9. [Future Enhancements](#future-enhancements) 
 
 ---
 
